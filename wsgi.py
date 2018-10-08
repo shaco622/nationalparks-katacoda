@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'Hello Openshift!'
+    return 'Welcome to the National Parks data service.'
