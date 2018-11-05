@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'Welcome to the National Parks data service. RedhatForum2018 Fighting'
+    return 'Welcome to the National Parks data service. RedhatForum2018 Fighting!!!!!!!!!!'
