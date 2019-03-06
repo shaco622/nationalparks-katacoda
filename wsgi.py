@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return '로또대박'
+    return 'nationalparks'
